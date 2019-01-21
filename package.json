@@ -1,0 +1,16 @@
+{
+  "name": "parody-planet-countdown-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d parody-planet-countdown-landing-page"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://treanaslocum.github.io/parodylandingpage",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
