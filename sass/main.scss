@@ -88,6 +88,11 @@ html, body {
         h1 {
           font-size: 48px;
           font-weight: 400;
+          line-height: 1;
+        }
+        p {
+          margin-top: 30px;
+          font-size: 18px;
         }
         .clear-box {
           max-width: 80%;
@@ -253,8 +258,12 @@ html, body {
           }
         }
         main {
+          margin-top: -20px;
           h1 {
             font-size: 28px;
+          }
+          p {
+            margin-top: 15px;
           }
           .clear-box {
             padding: 25px 25px;
@@ -262,7 +271,7 @@ html, body {
             flex-direction: column;
             height: 140px;
             background: none;
-            margin-top: 50px;
+            margin-top: 20px;
             table {
               margin-bottom: 10px;
               thead {
